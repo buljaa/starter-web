@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 
 dodatni text ha ha ha
+
+git.traingin copyright
