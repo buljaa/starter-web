@@ -11,3 +11,4 @@ please fork this repository
 dodatni text ha ha ha
 
 git.traingin copyright
+all righst reserved
